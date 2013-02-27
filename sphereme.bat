@@ -2,7 +2,7 @@
 
 echo Generates spheres on Raspberry Pi edition
 
-set raspiconnection=localhost
+set /p raspiconnection=Raspberry Pi IP:
 
 set tempfile=raspi_temp_temp.txt
 
